@@ -4,9 +4,9 @@
 #include <algorithm>
 
 int main() {
-    std::vector<std::string> first_names = {"Alice", "John", "Bob"};
-    std::vector<std::string> last_names = {"Smith", "Doe", "Brown"};
-    std::vector<std::string> student_ids = {"1002", "1001", "1003"};
+    std::vector<std::string> first_names = {"soroosh", "mehrbod"};
+    std::vector<std::string> last_names = {"dadashi", "etemadi"};
+    std::vector<std::string> student_ids = {"1400012268022", "1400012268036"};
 
     // Sort each vector separately
     std::sort(first_names.begin(), first_names.end());
